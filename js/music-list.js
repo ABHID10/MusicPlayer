@@ -11,7 +11,7 @@ let allMusic = [{
     },
     {
         name: "Main Hoon Na",
-        artist: "Sonu Nigam - Shreya Ghoshal",
+        artist: "Sonu-Shreya",
         src: "music-3"
     },
     {
