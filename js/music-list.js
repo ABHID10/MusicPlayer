@@ -149,5 +149,10 @@ let allMusic = [{
         artist: "Sonu-Alka",
         src: "music-30"
     },
+    {
+        name: "Dil Se Re",
+        artist: "A.R.Rahman",
+        src: "music-31"
+    },
 
 ];
