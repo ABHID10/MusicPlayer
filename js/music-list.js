@@ -151,7 +151,7 @@ let allMusic = [{
     },
     {
         name: "Dil Se Re",
-        artist: "A.R.Rahman",
+        artist: "A.R. Rahman",
         src: "music-31"
     },
 
