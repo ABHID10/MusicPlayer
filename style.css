@@ -6,6 +6,7 @@
     font-family: "Poppins", sans-serif;
     user-select: none;
     pointer-events: none;
+    appearance: none;
 }
 
 *::before,
